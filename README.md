@@ -560,13 +560,13 @@ The results prove that Machine Learning can significantly improve intrusion dete
 
 26. References
 
-1. NSL-KDD Dataset Documentation
-2. Scikit-learn Official Documentation
-3. Flask Official Documentation
-4. Python Documentation
-5. Research Papers on Intrusion Detection Systems
-6. Cybersecurity and Machine Learning Journals
-7. Network Security Research Articles
-8. Random Forest Algorithm Documentation
-9. Data Preprocessing Research Papers
-10. Machine Learning in Cybersecurity Publications
+NSL-KDD Dataset Documentation
+Scikit-learn Official Documentation
+Flask Official Documentation
+Python Documentation
+Research Papers on Intrusion Detection Systems
+Cybersecurity and Machine Learning Journals
+Network Security Research Articles
+Random Forest Algorithm Documentation
+Data Preprocessing Research Papers
+Machine Learning in Cybersecurity Publications
