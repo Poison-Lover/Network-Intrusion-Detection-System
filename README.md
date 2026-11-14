@@ -570,4 +570,3 @@ The results prove that Machine Learning can significantly improve intrusion dete
 8. Random Forest Algorithm Documentation
 9. Data Preprocessing Research Papers
 10. Machine Learning in Cybersecurity Publications
-11. 
